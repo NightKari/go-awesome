@@ -1,11 +1,11 @@
 # go-awesome
 > Go Organisieren Sie hervorragende Sprachressourcen, um die Projektimplementierung zu beschleunigen🏃
 > 
-> Stabiles Update auf [GitHub](https://github.com/Kari1217/go-awesome), bitte klicken Sie auf Stern, wenn Sie sich wohl fühlen ❤️
+> Stabiles Update auf [GitHub](https://github.com/NightKari/go-awesome), bitte klicken Sie auf Stern, wenn Sie sich wohl fühlen ❤️
 > 
 > Wenn Sie nachdrucken und teilen, behalten Sie bitte die Quelle, danke 😆
 > 
-> GitHub: https://github.com/Kari1217/go-awesome
+> GitHub: https://github.com/NightKari/go-awesome
 
 ---
 
